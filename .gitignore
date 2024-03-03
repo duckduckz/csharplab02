@@ -1,0 +1,7 @@
+# IDE files
+.vscode/
+
+# bild files
+build/
+bin/
+obj/
